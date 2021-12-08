@@ -1,0 +1,1 @@
+r=$(( $RANDOM % 1 + 6)); echo $r
